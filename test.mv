@@ -1,0 +1,2 @@
+<MvEVAL EXPR="{ exec('php -r \"phpinfo()\";') }" />
+
